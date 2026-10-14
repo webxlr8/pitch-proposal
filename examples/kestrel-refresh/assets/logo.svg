@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" width="520" height="96">
+  <g fill="none" stroke="#0F9F8C" stroke-width="7" stroke-linejoin="round">
+    <path d="M12 78 L48 14 L84 78 Z"/><path d="M30 78 L48 46 L66 78"/>
+  </g>
+  <text x="104" y="66" font-family="Inter, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#0B1220">northwind</text>
+  <text x="372" y="66" font-family="Inter, Helvetica, Arial, sans-serif" font-size="52" font-weight="400" letter-spacing="-1" fill="#475569">studio</text>
+</svg>

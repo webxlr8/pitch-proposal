@@ -1,0 +1,11 @@
+# FICTIONAL demo proof. Real profiles list only approved, public claims.
+stats:
+  - { value: "40+", label: Demo projects }
+  - { value: "4 wks", label: Typical go-live }
+  - { value: "99.9%", label: Uptime target }
+  - { value: "2019", label: Studio founded }
+clients: [Example Bakery Co, Sample Rentals, Demo Freight, Placeholder Clinic]
+how_we_work:
+  - { title: Fixed scope, body: "What's built and what isn't, agreed up front." }
+  - { title: Small senior team, body: The people you meet are the people who build. }
+  - { title: You own it, body: "Code, content and accounts stay yours." }

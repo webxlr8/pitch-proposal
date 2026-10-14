@@ -1,0 +1,19 @@
+# Example sender profile: WebXLR8 (public details from webxlr8.com).
+id: webxlr8
+name: WebXLR8
+website: https://webxlr8.com
+tagline: Design · Engineering · Operations
+one_liner: WebXLR8 is a technology partner for design, engineering and operations. We build the system and keep it running after launch.
+language: en
+contact:
+  email: contact@webxlr8.com
+  phone: +91 80752 47569
+  address_short: Kochi, India
+brand:
+  logo_on_dark: brand/logo-on-dark.png
+  logo_height: 30
+  accent: "#FF6A3A"
+  accent_2: "#FFB03A"
+  background: "#0B0B0B"
+  heading_font: Inter
+  body_font: Inter

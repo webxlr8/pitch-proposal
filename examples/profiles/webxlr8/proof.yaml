@@ -1,0 +1,11 @@
+# Approved, public claims only.
+stats:
+  - { value: "100+", label: Brands served }
+  - { value: "98%", label: Client retention }
+  - { value: "99.9%", label: Uptime SLA }
+  - { value: "2021", label: Building since }
+clients: [Bharat Petroleum, Cochin Shipyard, Kochi Metro Rail, Wipro, KFC, Applebee's, IHOP, Wonderla, Air Kerala, Nadan Drip, Luxe Lane]
+how_we_work:
+  - { title: Founders accountable, body: A senior team builds it. No juniors billed as seniors. }
+  - { title: Written scope, body: "What is built, what is not, and how success is measured, agreed up front." }
+  - { title: Full handover, body: "You own the code, docs and training. No vendor lock-in." }

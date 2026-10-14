@@ -1,0 +1,11 @@
+{
+  "name": "pitch-proposal",
+  "displayName": "pitch-proposal",
+  "version": "0.1.0",
+  "description": "Turn a client brief, company profile or website URL into a branded, client-ready A4 website proposal PDF: scope, sitemap, functions, homepage concept and delivery plan. No prices unless asked.",
+  "author": { "name": "WebXLR8", "url": "https://webxlr8.com" },
+  "homepage": "https://github.com/webxlr8/pitch-proposal",
+  "repository": "https://github.com/webxlr8/pitch-proposal",
+  "license": "MIT",
+  "keywords": ["website-proposal", "proposal-generator", "web-design", "scope-of-work", "sitemap", "website-redesign", "agency", "freelancer", "pdf", "claude-code", "claude-skill"]
+}

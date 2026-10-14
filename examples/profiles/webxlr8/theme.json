@@ -1,0 +1,37 @@
+{
+  "name": "webxlr8",
+  "label": "WebXLR8",
+  "source": "webxlr8.com CSS tokens (--wx8-*), pulled 2026-10-09",
+  "fonts": [
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap"
+  ],
+  "vars": {
+    "--accent": "#FF6A3A",
+    "--accent-rgb": "255 106 58",
+    "--accent-2": "#FFB03A",
+    "--accent-ink": "#0B0B0B",
+    "--glow-a-rgb": "255 106 58",
+    "--glow-b-rgb": "122 20 0",
+    "--num-grad": "linear-gradient(180deg, #FFF4EE 0%, #FFB03A 52%, #FF6A3A 100%)",
+    "--bg": "#0B0B0B",
+    "--bg-2": "#141414",
+    "--text": "#F2F2F2",
+    "--body": "#C9C9C9",
+    "--muted": "#A8A8A8",
+    "--grid": "rgba(255,255,255,.028)",
+    "--line": "rgba(255,255,255,.09)",
+    "--good": "#22C55E",
+    "--warn": "#F5C044",
+    "--bad": "#FF4D6A",
+    "--radius-card": "18px",
+    "--radius-pill": "999px",
+    "--head": "\"Inter\", system-ui, sans-serif",
+    "--sans": "\"Inter\", system-ui, sans-serif",
+    "--head-weight": "800",
+    "--head-track": "-0.05em",
+    "--eyebrow-font": "var(--sans)",
+    "--eyebrow-track": ".28em",
+    "--num-solid": "#FF7A45"
+  },
+  "mode": "dark"
+}

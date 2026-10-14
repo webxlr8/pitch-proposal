@@ -1,0 +1,12 @@
+{
+  "name": "pitch-proposal",
+  "owner": { "name": "WebXLR8" },
+  "description": "Website proposal generator for agencies, as a Claude Code skill",
+  "plugins": [
+    {
+      "name": "pitch-proposal",
+      "source": "./",
+      "description": "Create a branded, client-ready A4 website proposal PDF from a brief, a profile or a website URL."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+/* Light theme defaults. The profile overrides --accent, fonts and logo via theme.css. */
+:root{
+  --accent:#0F766E; --accent-rgb:15,118,110; --accent-2:#14B8A6; --hl:#0F766E; --on-accent:#FFFFFF;
+  --grad:linear-gradient(135deg,var(--accent),var(--accent-2));
+  --bg:#FAF8F4; --bg-rgb:250,248,244; --bg-2:#F1EEE8; --card:#FFFFFF; --card-2:#F6F3EE;
+  --text:#16181D; --body:#454B57; --muted:#6B7280; --line:rgba(22,24,29,.10);
+  --grid-line:rgba(22,24,29,.035); --glow-rgb:20,184,166;
+  --frame-line:rgba(22,24,29,.12); --shadow:0 6mm 16mm rgba(22,24,29,.18);
+  --head:"Inter",system-ui,sans-serif; --sans:"Inter",system-ui,sans-serif;
+  --head-weight:800; --head-track:-.045em; --cover-photo-opacity:.18;
+}

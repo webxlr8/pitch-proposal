@@ -1,0 +1,22 @@
+# slot            Unsplash photo (free licence) — fetched by examples/run_examples.py
+hero              https://unsplash.com/photos/vpVE1Xk1eR4
+mountain          https://unsplash.com/photos/HS5CLnQbCOc
+circle            https://unsplash.com/photos/ciqbTWuGgBI
+shelf             https://unsplash.com/photos/hVFAP4Pojo0
+woman-meditating  https://unsplash.com/photos/NTyBbu66_SI
+hands             https://unsplash.com/photos/olmY3NkTY_M
+desk              https://unsplash.com/photos/Nj3fU5SLFzQ
+classroom         https://unsplash.com/photos/zAUFtGIWc0E
+bowl              https://unsplash.com/photos/VsI_74zRzAo
+river             https://unsplash.com/photos/StfcHwX9_YE
+event             https://unsplash.com/photos/jns3PkQU1xY
+incense           https://unsplash.com/photos/ukk9qNsI4HQ
+books             https://unsplash.com/photos/ZeEffGL-n1o
+sticks            https://unsplash.com/photos/fHT4wSJ-M04
+lotus             https://unsplash.com/photos/z81fCikflf0
+volunteers        https://unsplash.com/photos/qvzjG2pF4bE
+woman-wood        https://unsplash.com/photos/KdLKorWtFk8
+group-yoga        https://unsplash.com/photos/ZARfCYDaVg0
+pier              https://unsplash.com/photos/qkfxBc2NQ18
+hands-group       https://unsplash.com/photos/Db-stA8meJY
+woman-white       https://unsplash.com/photos/a94qb09aMX8

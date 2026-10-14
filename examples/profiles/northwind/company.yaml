@@ -1,0 +1,20 @@
+# FICTIONAL demo sender. Replace with your own: scripts/profile_from_site.py https://your-company.com --out pitch-profile
+id: northwind
+name: Northwind Studio
+website: https://northwind.example
+tagline: Web · Growth · Operations software
+one_liner: A small product studio that builds fast websites and simple operations software for growing businesses.
+language: en
+contact:
+  email: hello@northwind.example
+  phone: +1 555 0100
+  address_short: Portland, Oregon
+brand:
+  logo: brand/logo.svg
+  logo_on_dark: brand/logo-on-dark.svg
+  logo_height: 30
+  accent: "#0F766E"
+  accent_2: "#14B8A6"
+  background: "#FAF8F4"
+  heading_font: Fraunces
+  body_font: Inter

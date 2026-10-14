@@ -1,0 +1,29 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Python packages
+        run: pip install -r skills/pitch-proposal/requirements.txt
+      - name: Doctor
+        run: python skills/pitch-proposal/scripts/doctor.py --profile examples/profiles/northwind
+      - name: Unit tests
+        run: python -m unittest discover tests -v
+      - name: End-to-end example (serve demo site, crawl, screenshots, crops, render, checks)
+        run: python examples/run_examples.py --only kestrel
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: example-${{ matrix.os }}
+          path: |
+            examples/kestrel-refresh/*.pdf
+            examples/kestrel-refresh/previews/
+            examples/kestrel-refresh/build/report.md

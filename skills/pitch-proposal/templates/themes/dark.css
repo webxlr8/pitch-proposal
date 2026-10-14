@@ -1,0 +1,11 @@
+/* Dark theme defaults. The profile overrides --accent, fonts and logo via theme.css. */
+:root{
+  --accent:#FF6A3A; --accent-rgb:255,106,58; --accent-2:#FFB03A; --hl:#FF7A45; --on-accent:#0B0B0B;
+  --grad:linear-gradient(135deg,var(--accent),var(--accent-2));
+  --bg:#0B0B0B; --bg-rgb:11,11,11; --bg-2:#111111; --card:#171717; --card-2:#1F1F1F;
+  --text:#F2F2F2; --body:#C9C9C9; --muted:#A8A8A8; --line:rgba(255,255,255,.09);
+  --grid-line:rgba(255,255,255,.028); --glow-rgb:255,106,58;
+  --frame-line:rgba(255,255,255,.14); --shadow:0 8mm 20mm rgba(0,0,0,.55);
+  --head:"Inter",system-ui,sans-serif; --sans:"Inter",system-ui,sans-serif;
+  --head-weight:800; --head-track:-.05em; --cover-photo-opacity:.32;
+}

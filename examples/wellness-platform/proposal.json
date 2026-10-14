@@ -1,0 +1,13 @@
+{
+  "client": "[Client Brand Name]",
+  "company": "WebXLR8",
+  "preset": "build",
+  "theme": "dark",
+  "no_prices": true,
+  "ban": [
+    "reference-site.example",
+    "Reference Foundation"
+  ],
+  "output": "Wellness Platform Website Proposal - WebXLR8.pdf",
+  "allow": []
+}
